@@ -163,16 +163,16 @@ Project Link: [https://github.com/berat66/image_line_recognition](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/berat66/repo.svg?style=flat-square
-[contributors-url]: https://github.com/berat66/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/berat66/repo.svg?style=flat-square
-[forks-url]: https://github.com/berat66/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/berat66/repo.svg?style=flat-square
-[stars-url]: https://github.com/berat66/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/berat66/repo.svg?style=flat-square
-[issues-url]: https://github.com/berat66/repo/issues
-[license-shield]: https://img.shields.io/github/license/berat66/repo.svg?style=flat-square
-[license-url]: https://github.com/berat66/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/berat66/image_line_recognition?style=flat-square
+[contributors-url]: https://github.com/berat66/image_line_recognition/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/berat66/image_line_recognition?style=flat-square
+[forks-url]: https://github.com/berat66/image_line_recognition/network/members
+[stars-shield]: https://img.shields.io/github/stars/berat66/image_line_recognition?style=flat-square
+[stars-url]: https://github.com/berat66/image_line_recognition/stargazers
+[issues-shield]: https://img.shields.io/github/issues/berat66/image_line_recognition?style=flat-square
+[issues-url]: https://github.com/berat66/image_line_recognition/issues
+[license-shield]: https://img.shields.io/github/license/berat66/image_line_recognition?style=flat-square
+[license-url]: https://github.com/berat66/image_line_recognition/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/berat66
+[linkedin-url]: https://linkedin.com/in/beratacikgoez
 [product-screenshot]: images/screenshot.png
